@@ -1,0 +1,35 @@
+h3 {
+
+    color: brown;
+}
+
+body{
+
+    background-color: cadetblue;
+}
+
+.RrecipeOfTheDay {
+
+text-decoration-color: burlywood;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center
+}
+
+.Recipes{
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: gainsboro
+}
+.theHeader{
+
+    background-color: darkgray;
+    color: wheat
+}
+
+.Ingredients{
+
+    color:bisque;
+    text-align: center;
+    font-size: 2cm
+}
